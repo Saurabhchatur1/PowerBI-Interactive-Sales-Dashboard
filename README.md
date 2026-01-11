@@ -62,13 +62,7 @@ This dashboard is designed for **retail and e-commerce stakeholders** to:
 
 ---
 
-## 📁 Repository Structure
-├── Dashboard/ # Power BI (.pbix) dashboard file
-├── Dataset/ # Source retail sales dataset
-├── Media/ # Dashboard images (no video files)
-└── README.md
 
----
 
 ## 🔮 Future Enhancements
 
