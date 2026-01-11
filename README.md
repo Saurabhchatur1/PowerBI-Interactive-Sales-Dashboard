@@ -17,5 +17,7 @@ It focuses on data modeling, DAX measures, and business-driven insights.
 - Data Modeling
 - Interactive Visualizations
 
-## Dashboard Video
-https://www.linkedin.com/posts/saurabh-chatur-044798287_powerbi-dataanalytics-businessintelligence-activity-7415996675309174784-w8wB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEW0kzQBPITKCg1MidgyZnUTpgpkLBAEG3s
+
+## 🎥 Dashboard Walkthrough Video
+
+[![Watch the dashboard video](Media/dashboard_preview.png)](https://www.linkedin.com/posts/saurabh-chatur-044798287_powerbi-dataanalytics-businessintelligence-activity-7415996675309174784-w8WB)
