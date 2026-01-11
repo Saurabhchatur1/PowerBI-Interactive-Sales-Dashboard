@@ -5,13 +5,15 @@ This project demonstrates **end-to-end Power BI development**, covering **data m
 
 ---
 
+## 📊 Dashboard Preview
+
+![Power BI Interactive Sales Dashboard](Media/Overview%20.png)
+
 ## 🎥 Dashboard Walkthrough Video
 
-> Click the image below to watch the full interactive dashboard walkthrough
+🔗 **Watch the full interactive dashboard walkthrough here:**  
+https://www.linkedin.com/posts/saurabh-chatur-044798287_powerbi-dataanalytics-businessintelligence-activity-7415996675309174784-w8wB
 
-[![Power BI Dashboard Preview](Media/Overview.png)](https://www.linkedin.com/posts/saurabh-chatur-044798287_powerbi-dataanalytics-businessintelligence-activity-7415996675309174784-w8wB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEW0kzQBPITKCg1MidgyZnUTpgpkLBAEG3s)
-
----
 
 ## 🚀 Key Features
 
